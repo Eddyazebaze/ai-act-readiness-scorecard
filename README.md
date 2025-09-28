@@ -1,26 +1,28 @@
+<!--
+README • Projet démonstrateur - Eddy AZEBAZE
+Objectif : clarté + crédibilité + conversion
+-->
+
 <!-- BANNIÈRE -->
 <p align="center">
   <img src="assets/banner-projet-augmente.png" alt="Projet Augmenté - From IT projects to strategic assets" width="880">
 </p>
 
 # 🛡️ AI Act Readiness Scorecard  
-### _Outil d’auto-évaluation de conformité IA – Orienté DSI / CTO / Architectes_
+### _Outil d’auto-évaluation de conformité IA - Orienté DSI / CTO / Architectes_
 
-> **100 % hors ligne • Zero dépendance • Aucune donnée collectée • Conforme RGPD par conception**
+> **100 % hors ligne • Zéro dépendance • Aucune donnée collectée • Conforme RGPD by design**
 
-[![AI Act Ready](https://img.shields.io/badge/AI_Act_Ready-Compliant-brightgreen?logo=europen&logoColor=white&labelColor=1e88e5)](https://github.com/eddyazebaze/ai-act-readiness-scorecard)
+[![AI Act Ready](https://img.shields.io/badge/AI_Act_Ready-Compliant-brightgreen?logo=europen&logoColor=white&labelColor=1e88e5)](https://github.com/eddyazebaze/ai-act-readiness-scorecard)  
 [📱 Mobile & Web] • [✅ Hors ligne] • [🇫🇷 FR] • [🔒 Zero data]
 
-![Interface du AI Act Readiness Scorecard - Mode clair](assets/screenshot-responsive-clair.png)
+![Interface - AI Act Readiness Scorecard](assets/screenshot-responsive-clair.png)
 
-➡️ **[![Vidéo démo - AI Act Readiness Scorecard](https://img.youtube.com/vi/1HpOpIDhgdS3ZMlbaKKTIynjAB1n4rhrZ/0.jpg)](https://drive.google.com/file/d/1HpOpIDhgdS3ZMlbaKKTIynjAB1n4rhrZ/view?usp=drive_link)**
-
-> *"Un contrôle incomplet n’est pas un contrôle."*  
-> Cet outil évalue la **maturité IT réelle** d’un système IA face à l’AI Act — pas seulement la compliance théorique.
+➡️ **[Voir la démo vidéo (2 min)](https://drive.google.com/file/d/1HpOpIDhgdS3ZMlbaKKTIynjAB1n4rhrZ/view?usp=drive_link)**
 
 ---
 
-## Objectif
+## 🎯 Objectif
 
 Un outil simple et autonome pour :  
 - Évaluer la conformité d’un système IA à l’AI Act européen  
@@ -44,7 +46,7 @@ Un outil simple et autonome pour :
 
 ---
 
-## Méthodologie de scoring
+## 🧩 Méthodologie de scoring
 
 - 8 questions → score max **24**  
 - Échelle :  
@@ -56,7 +58,7 @@ Un outil simple et autonome pour :
 
 ---
 
-## Exemples de cas d’usage
+## 📊 Exemples de cas d’usage
 
 | Contexte | Score | Niveau |
 |----------|-------|--------|
@@ -64,11 +66,11 @@ Un outil simple et autonome pour :
 | Tri médical | 20/24 | 🔶 Moyen |
 | Chatbot RH | 22/24 | ✅ Bon |
 
-![Interface du AI Act Readiness Scorecard](assets/screenshot-responsive-clair.png)
+![Exemple - Cas d’usage Crédit bancaire](assets/snapshot-scoring-credit-clair.png)
 
 ---
 
-## Évolutions prévues
+## 🚀 Évolutions prévues
 
 - Upload de fichiers (PIA, docs techniques)  
 - Mode multi-projets (benchmark)  
@@ -77,12 +79,14 @@ Un outil simple et autonome pour :
 
 ---
 
-## Passer à l’action
+## 🎯 Passer à l’action
+
+> *« Un contrôle incomplet n’est pas un contrôle. »*  
 
 - 👉 [Réserver 30 min](https://calendly.com/eddy-azebaze-proton/30min)  
 - 👉 [LinkedIn](https://www.linkedin.com/in/eddy-azebaze-pmp-cism)  
 - 👉 [Email direct](mailto:eddy.azebaze@proton.me)  
-- 👉 [Medium](https://medium.com/@eddyazebaze)
+- 👉 [Medium](https://medium.com/@eddyazebaze)  
 
 ---
 
