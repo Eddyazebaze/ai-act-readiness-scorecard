@@ -1,14 +1,10 @@
 <!-- BANNIÈRE -->
 <p align="center">
-  <img src="../assets/banners/banner-projet-augmente.png" alt="Projet Augmenté - From IT projects to strategic assets" width="880">
+  <img src="screenshots/banner-projet-augmente.png" alt="Projet Augmenté - From IT projects to strategic assets" width="880">
 </p>
 
-# 📱 AI Act Readiness Scorecard - Application Mobile (iOS)  
+# 📱 AI Act Readiness Scorecard - Application Mobile
 Version mobile développée sur [Emergent.sh](https://emergent.sh) pour **iOS**, dans le cadre du projet **AI Act Readiness Scorecard**.
-
-<p align="center">
-  <img alt="MIT License" src="https://img.shields.io/badge/License-MIT-blue.svg">  
-</p>
 
 > ✅ 100 % hors ligne • ✅ Aucune donnée collectée • ✅ Interface en français • ✅ Conforme RGPD
 
@@ -48,6 +44,23 @@ L’application mobile permet aux **décideurs IT (DSI, CTO, DPO)** de réaliser
 
 ---
 
+## Structure du dépôt
+
+```
+mobile/
+├── exports/
+│   └── emergent-export.zip       # Code source exporté d’Emergent.sh
+├── screenshots/
+│   ├── banner-projet-augmente.png
+│   ├── home-screen.png
+│   ├── score-credit-assist-ai.png
+│   ├── score-neuroscan-ai.png
+│   └── score-hr-assistant-pro.png
+└── README.md
+```
+
+---
+
 ## Mode d’emploi
 
 1. Télécharger le fichier ZIP :  
@@ -72,7 +85,6 @@ Ce projet est conçu par **Eddy AZEBAZE** - Chef de projet IT stratégique (IA r
 ---
 
 ## Licence
-
 Projet sous licence **MIT** - libre pour usage et adaptation, avec attribution.  
 
 ---
