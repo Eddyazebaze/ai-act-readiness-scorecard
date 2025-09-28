@@ -1,7 +1,3 @@
-README • Projet démonstrateur - Eddy AZEBAZE
-Objectif : clarté + crédibilité + conversion
--->
-
 <!-- BANNIÈRE -->
 <p align="center">
   <img src="assets/banner-projet-augmente.png" alt="Projet Augmenté - From IT projects to strategic assets" width="880">
