@@ -20,7 +20,7 @@
 
 ---
 
-## 🎯 Objectif
+## Objectif
 
 Un outil simple et autonome pour :  
 - Évaluer la conformité d’un système IA à l’AI Act européen  
@@ -44,7 +44,7 @@ Un outil simple et autonome pour :
 
 ---
 
-## 🧩 Méthodologie de scoring
+## Méthodologie de scoring
 
 - 8 questions → score max **24**  
 - Échelle :  
@@ -56,7 +56,7 @@ Un outil simple et autonome pour :
 
 ---
 
-## 📊 Exemples de cas d’usage
+## Exemples de cas d’usage
 
 | Contexte | Score | Niveau |
 |----------|-------|--------|
@@ -68,21 +68,12 @@ Un outil simple et autonome pour :
 
 ---
 
-## 🚀 Évolutions prévues
+## Évolutions prévues
 
 - Upload de fichiers (PIA, docs techniques)  
 - Mode multi-projets (benchmark)  
 - Intégration MLOps (Prometheus, Grafana, MLflow)  
 - Export PDF signable (logo + signature numérique)  
-
----
-
-## 🎯 Passer à l’action
-
-- 👉 [Réserver 30 min](https://calendly.com/eddy-azebaze-proton/30min)  
-- 👉 [LinkedIn](https://www.linkedin.com/in/eddy-azebaze-pmp-cism)  
-- 👉 [Email](mailto:eddy.azebaze@proton.me)  
-- 👉 [Medium](https://medium.com/@eddyazebaze)  
 
 ---
 
