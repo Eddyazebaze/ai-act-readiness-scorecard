@@ -1,9 +1,19 @@
-# ai-act-readiness-scorecard
-Scorecard AI Act 100% offline - auto-évaluation de maturité (gouvernance, risques, documentation). Web &amp; Mobile.
-<!--
-README • Projet démonstrateur - Eddy AZEBAZE
-Objectif : clarté + crédibilité + conversion
--->
+# 🛡️ AI Act Readiness Scorecard  
+### _Outil d’auto-évaluation de conformité IA – Orienté DSI / CTO / Architectes_
+
+> **100 % hors ligne • Zero dépendance • Aucune donnée collectée • Conforme RGPD par conception**
+
+[![AI Act Ready](https://img.shields.io/badge/AI_Act_Ready-Compliant-brightgreen?logo=europen&logoColor=white&labelColor=1e88e5)](https://github.com/eddyazebaze/ai-act-readiness-scorecard)
+[📱 Mobile & Web] • [✅ Hors ligne] • [🇫🇷 FR] • [🔒 Zero data]
+
+![Interface du AI Act Readiness Scorecard - Mode clair](assets/screenshot-responsive-clair.png)
+
+➡️ **[![Vidéo démo - AI Act Readiness Scorecard](https://img.youtube.com/vi/1HpOpIDhgdS3ZMlbaKKTIynjAB1n4rhrZ/0.jpg)](https://drive.google.com/file/d/1HpOpIDhgdS3ZMlbaKKTIynjAB1n4rhrZ/view?usp=drive_link)**
+
+> *"Un contrôle incomplet n’est pas un contrôle."*  
+> Cet outil évalue la **maturité IT réelle** d’un système IA face à l’AI Act — pas seulement la compliance théorique.
+
+---
 
 <!-- BANNIÈRE -->
 <p align="center">
