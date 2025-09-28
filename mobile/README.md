@@ -75,12 +75,16 @@ mobile/
 
 ## Passer à l’action
 
-Ce projet est conçu par **Eddy AZEBAZE** - Chef de projet IT stratégique (IA responsable, conformité AI Act / RGPD, gouvernance IT, transformation SI).  
+Ce projet est conçu par **Eddy AZEBAZE** - **Chef de projet IT & PMO stratégique**, spécialisé en **gestion de projets complexes**, **data**, **IA responsable**, **conformité réglementaire** (AI Act, RGPD, NIS2, DORA) et **gouvernance IT orientée valeur**.  
 
 - 👉 [Réserver 30 min](https://calendly.com/eddy-azebaze-proton/30min)  
-- 👉 [LinkedIn](https://linkedin.com/in/eddyazebaze)  
+- 👉 [LinkedIn](https://www.linkedin.com/in/eddy-azebaze-pmp-cism)  
 - 👉 [Email direct](mailto:eddy.azebaze@proton.me)  
 - 👉 [Medium](https://medium.com/@eddyazebaze)  
+
+---
+
+> *«💡 « On ne livre pas un projet. On construit un actif stratégique : durable, traçable et auditable. »
 
 ---
 
