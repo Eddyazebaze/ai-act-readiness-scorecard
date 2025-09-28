@@ -119,7 +119,7 @@ ai-act-readiness-scorecard/
 
 ## Passer à l’action
 
-Ce projet est conçu par **Eddy AZEBAZE** - **Chef de projet IT & PMO stratégique**, spécialisé en **gestion de projets complexes**, **data**, **IA responsable**, **conformité réglementaire** (AI Act, RGPD, NIS2, DORA) et **gouvernance IT orientée valeur**.  
+Ce projet est conçu par **Eddy AZEBAZE, PMP®, CISM®** - **Chef de projet IT & PMO stratégique**, spécialisé en **gestion de projets complexes**, **data**, **IA responsable**, **conformité réglementaire** (AI Act, RGPD, NIS2, DORA) et **gouvernance IT orientée valeur**.  
 
 - 👉 [Réserver 30 min](https://calendly.com/eddy-azebaze-proton/30min)  
 - 👉 [LinkedIn](https://www.linkedin.com/in/eddy-azebaze-pmp-cism)  
