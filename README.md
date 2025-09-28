@@ -1,5 +1,5 @@
 # ai-act-readiness-scorecard
-Scorecard AI Act 100% offline – auto-évaluation de maturité (gouvernance, risques, documentation). Web &amp; Mobile.
+Scorecard AI Act 100% offline - auto-évaluation de maturité (gouvernance, risques, documentation). Web &amp; Mobile.
 <!--
 README • Projet démonstrateur - Eddy AZEBAZE
 Objectif : clarté + crédibilité + conversion
@@ -11,7 +11,7 @@ Objectif : clarté + crédibilité + conversion
 </p>
 
 <h1 align="center">🛡️ AI Act Readiness Scorecard</h1>
-<p align="center"><em>Outil d’auto-évaluation de conformité IA – Orienté DSI / CTO / Architectes</em></p>
+<p align="center"><em>Outil d’auto-évaluation de conformité IA - Orienté DSI / CTO / Architectes</em></p>
 <p align="center">
   <a href="https://www.linkedin.com/in/eddy-azebaze-pmp-cism">LinkedIn</a> •
   <a href="mailto:eddy.azebaze@proton.me">Email</a> •
@@ -55,9 +55,9 @@ Un outil simple et autonome pour :
 
 - 8 questions → score max **24**  
 - Échelle :  
-  - **0–10** : insuffisant (risque élevé)  
-  - **11–20** : moyen (améliorations nécessaires)  
-  - **21–24** : conforme solide  
+  - **0-10** : insuffisant (risque élevé)  
+  - **11-20** : moyen (améliorations nécessaires)  
+  - **21-24** : conforme solide  
 
 ⚠️ La question *“Haut risque ?”* sensibilise à la classification AI Act (ex. dispositifs médicaux, scoring crédit).  
 
@@ -93,4 +93,4 @@ Un outil simple et autonome pour :
 
 ---
 
-<sub>© Projet Augmenté® – démonstrateur fourni “as-is” pour usage d’évaluation. Conformité RGPD / NIS2 / DORA / AI Act. Traçabilité et réversibilité au cœur de la démarche.</sub>
+<sub>© Projet Augmenté® - démonstrateur fourni “as-is” pour usage d’évaluation. Conformité RGPD / NIS2 / DORA / AI Act. Traçabilité et réversibilité au cœur de la démarche.</sub>
