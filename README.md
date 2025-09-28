@@ -76,7 +76,7 @@ Un outil simple et autonome pour :
 | Tri médical | 20/24 | 🔶 |
 | Chatbot RH | 22/24 | ✅ |
 
-![Cas d’usage – Crédit bancaire](assets/snapshot-scoring-credit-clair.png)
+![Cas d’usage - Crédit bancaire](assets/snapshot-scoring-credit-clair.png)
 
 ---
 
@@ -119,7 +119,7 @@ ai-act-readiness-scorecard/
 
 ## Passer à l’action
 
-> *« Un contrôle incomplet n’est pas un contrôle. »*  
+Ce projet est conçu par **Eddy AZEBAZE** - **Chef de projet IT & PMO stratégique**, spécialisé en **gestion de projets complexes**, **data**, **IA responsable**, **conformité réglementaire** (AI Act, RGPD, NIS2, DORA) et **gouvernance IT orientée valeur**.  
 
 - 👉 [Réserver 30 min](https://calendly.com/eddy-azebaze-proton/30min)  
 - 👉 [LinkedIn](https://www.linkedin.com/in/eddy-azebaze-pmp-cism)  
@@ -128,6 +128,9 @@ ai-act-readiness-scorecard/
 
 ---
 
+> *«💡 « On ne livre pas un projet. On construit un actif stratégique : durable, traçable et auditable. »
+
+---
 ## Licence
 
 Projet sous licence **MIT** - libre d’usage et d’adaptation avec attribution.
