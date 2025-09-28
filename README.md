@@ -22,7 +22,7 @@ Objectif : clarté + crédibilité + conversion
 
 ---
 
-## 🎯 Objectif
+## Objectif
 
 Un outil simple et autonome pour :  
 - Évaluer la conformité d’un système IA à l’AI Act européen  
@@ -34,7 +34,7 @@ Un outil simple et autonome pour :
 
 ---
 
-## 🧠 Valeur ajoutée
+## Valeur ajoutée
 
 | Fonctionnalité | Différenciation |
 |----------------|-----------------|
@@ -46,7 +46,7 @@ Un outil simple et autonome pour :
 
 ---
 
-## 🧩 Méthodologie de scoring
+## Méthodologie de scoring
 
 - 8 questions → score max **24**  
 - Échelle :  
@@ -58,7 +58,7 @@ Un outil simple et autonome pour :
 
 ---
 
-## 📊 Exemples de cas d’usage
+## Exemples de cas d’usage
 
 | Contexte | Score | Niveau |
 |----------|-------|--------|
@@ -70,7 +70,7 @@ Un outil simple et autonome pour :
 
 ---
 
-## 🚀 Évolutions prévues
+## Évolutions prévues
 
 - Upload de fichiers (PIA, docs techniques)  
 - Mode multi-projets (benchmark)  
@@ -79,7 +79,7 @@ Un outil simple et autonome pour :
 
 ---
 
-## 🎯 Passer à l’action
+## Passer à l’action
 
 > *« Un contrôle incomplet n’est pas un contrôle. »*  
 
