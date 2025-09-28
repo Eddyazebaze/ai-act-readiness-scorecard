@@ -44,7 +44,7 @@ L’application mobile permet aux **décideurs IT (DSI, CTO, DPO)** de réaliser
 
 ---
 
-## 🚀 Preview App on your Phone
+## Preview App on your Phone
 
 Scannez le QR code ci-dessous avec votre caméra pour tester l’application dans **Expo Go** sur votre smartphone.  
 
