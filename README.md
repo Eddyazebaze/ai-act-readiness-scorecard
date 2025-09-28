@@ -17,7 +17,7 @@
 
 ---
 
-## 🌐 Versions disponibles
+## Versions disponibles
 
 - 🌍 **Tester la version Web** → [Netlify](https://aiactreadinesssscorecard.netlify.app/)  
 - 🎥 **Voir la démo vidéo (3 min 40)**  
@@ -32,7 +32,7 @@
 
 ---
 
-## 🎯 Objectif
+## Objectif
 
 Un outil simple et autonome pour :  
 - Évaluer la conformité d’un système IA à l’AI Act européen  
@@ -44,7 +44,7 @@ Un outil simple et autonome pour :
 
 ---
 
-## 🧠 Valeur ajoutée
+## Valeur ajoutée
 
 | Fonctionnalité | Différenciation |
 |----------------|-----------------|
