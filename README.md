@@ -7,27 +7,45 @@ Objectif : clarté + crédibilité + conversion
 <p align="center">
   <img src="assets/banner-projet-augmente.png" alt="Projet Augmenté - From IT projects to strategic assets" width="880">
 </p>
-
-<!-- BADGES -->
 <p align="center">
-  <a href="https://drive.google.com/file/d/1HpOpIDhgdS3ZMlbaKKTIynjAB1n4rhrZ/view?usp=drive_link">
-    <img alt="Demo Video" src="https://img.shields.io/badge/Demo-Video-34A853?logo=google-drive&logoColor=white">
-  </a>
-  <img alt="MIT License" src="https://img.shields.io/badge/License-MIT-0A66C2.svg">
-  <a href="https://github.com/eddyazebaze/ai-act-readiness-scorecard">
-    <img alt="AI Act Ready" src="https://img.shields.io/badge/AI_Act-Readiness-brightgreen?label=Scorecard&labelColor=1e88e5">
-  </a>
+  <img alt="MIT License" src="https://img.shields.io/badge/License-MIT-blue.svg">  
 </p>
 
 # 🛡️ AI Act Readiness Scorecard  
-### _Outil d’auto-évaluation de conformité IA – orienté DSI / CTO / Architectes_
+### _Outil d’auto-évaluation de conformité IA - Orienté DSI / CTO / Architectes_
 
-> **100 % hors ligne • Zéro dépendance • Aucune donnée collectée • RGPD by design**
+> **100 % hors ligne • Zéro dépendance • Aucune donnée collectée • Conforme RGPD by design**
 
-![Interface – AI Act Readiness Scorecard](assets/screenshot-responsive-clair.png)
+[![AI Act Ready](https://img.shields.io/badge/AI_Act_Ready-Compliant-brightgreen?logo=europen&logoColor=white&labelColor=1e88e5)](https://github.com/eddyazebaze/ai-act-readiness-scorecard)  
+📱 Mobile & Web • ✅ Hors ligne • 🇫🇷 FR • 🔒 Zero data  
+
+🌍 **[🌐 Tester la version Web (Netlify)](https://aiactreadinesssscorecard.netlify.app/)**  
 
 ---
 
+## 🎥 Vidéo démo
+
+<p align="center">
+  <a href="https://drive.google.com/file/d/1HpOpIDhgdS3ZMlbaKKTIynjAB1n4rhrZ/view?usp=drive_link" target="_blank">
+    <img src="assets/video-demo-thumbnail.png" alt="Vidéo démo - AI Act Readiness Scorecard" width="720">
+  </a>
+  <br>
+  <sub>🎥 Cliquez sur l’image pour voir la vidéo complète (Google Drive)</sub>
+</p>
+
+---
+
+## 🎥 Vidéo démo
+
+<p align="center">
+  <a href="https://drive.google.com/file/d/1HpOpIDhgdS3ZMlbaKKTIynjAB1n4rhrZ/view?usp=drive_link" target="_blank">
+    <img src="assets/video-demo-thumbnail.png" alt="Vidéo démo - AI Act Readiness Scorecard" width="720">
+  </a>
+  <br>
+  <sub>🎥 Cliquez sur l’image pour voir la vidéo complète (Google Drive)</sub>
+</p>
+
+---
 ## Objectif
 
 Un outil simple et autonome pour :  
