@@ -1,4 +1,4 @@
-<!--
+readme_full = """<!--
 README • Projet démonstrateur - Eddy AZEBAZE
 Objectif : clarté + crédibilité + conversion
 -->
@@ -7,66 +7,57 @@ Objectif : clarté + crédibilité + conversion
 <p align="center">
   <img src="assets/banner-projet-augmente.png" alt="Projet Augmenté - From IT projects to strategic assets" width="880">
 </p>
+
 <p align="center">
   <img alt="MIT License" src="https://img.shields.io/badge/License-MIT-blue.svg">  
 </p>
 
 # 🛡️ AI Act Readiness Scorecard  
-### _Outil d’auto-évaluation de conformité IA - Orienté DSI / CTO / Architectes_
+### _Outil d’auto-évaluation de conformité IA - Orienté DSI / RSSI / DPO_
 
 > **100 % hors ligne • Zéro dépendance • Aucune donnée collectée • Conforme RGPD by design**
 
 [![AI Act Ready](https://img.shields.io/badge/AI_Act_Ready-Compliant-brightgreen?logo=europen&logoColor=white&labelColor=1e88e5)](https://github.com/eddyazebaze/ai-act-readiness-scorecard)  
-📱 Mobile & Web • ✅ Hors ligne • 🇫🇷 FR • 🔒 Zero data  
-
-🌍 **[🌐 Tester la version Web (Netlify)](https://aiactreadinesssscorecard.netlify.app/)**  
+📱 Mobile & Web • ✅ Hors ligne • 🇫🇷 FR • 🔒 Zero data
 
 ---
 
-## 🎥 Vidéo démo
+## 🌐 Versions disponibles
+
+- 🌍 **Tester la version Web** → [Netlify](https://aiactreadinesssscorecard.netlify.app/)  
+- 🎥 **Voir la démo vidéo (3 min 40)**  
 
 <p align="center">
   <a href="https://drive.google.com/file/d/1HpOpIDhgdS3ZMlbaKKTIynjAB1n4rhrZ/view?usp=drive_link" target="_blank">
     <img src="assets/video-demo-thumbnail.png" alt="Vidéo démo - AI Act Readiness Scorecard" width="720">
   </a>
   <br>
-  <sub>🎥 Cliquez sur l’image pour voir la vidéo complète (Google Drive)</sub>
+  <sub>🎥 Cliquez sur l’image pour lancer la vidéo (Google Drive)</sub>
 </p>
 
 ---
 
-## 🎥 Vidéo démo
-
-<p align="center">
-  <a href="https://drive.google.com/file/d/1HpOpIDhgdS3ZMlbaKKTIynjAB1n4rhrZ/view?usp=drive_link" target="_blank">
-    <img src="assets/video-demo-thumbnail.png" alt="Vidéo démo - AI Act Readiness Scorecard" width="720">
-  </a>
-  <br>
-  <sub>🎥 Cliquez sur l’image pour voir la vidéo complète (Google Drive)</sub>
-</p>
-
----
-## Objectif
+## 🎯 Objectif
 
 Un outil simple et autonome pour :  
-- **Évaluer** la conformité d’un système IA à l’AI Act européen  
-- **Détecter** les écarts critiques (gouvernance, sécurité, transparence)  
-- **Prioriser** les actions IT (P1/P2/P3) selon le risque opérationnel  
-- **Générer** des artefacts prêts audit (PIA allégé, logs, documentation)  
+- Évaluer la conformité d’un système IA à l’AI Act européen  
+- Détecter les écarts critiques en gouvernance, sécurité et transparence  
+- Prioriser les actions IT (P1/P2/P3) selon le risque opérationnel  
+- Générer des artefacts prêts pour l’audit (PIA allégé, logs, documentation)  
 
 👉 **Public cible :** DSI, CTO, PMO, DPO, auditeurs internes
 
 ---
 
-## Valeur ajoutée
+## 🧠 Valeur ajoutée
 
 | Fonctionnalité | Différenciation |
 |----------------|-----------------|
-| Évaluation en 5 min | Pas besoin de juriste pour démarrer |
-| Score sur 24 pts | Mesure **opérationnelle** de la maturité IT |
-| Plan d’action P1/P2/P3 | Recommandations techniques **priorisées** |
-| 100 % hors ligne | Aucun risque de fuite, **pas de cloud** |
-| Export audit-ready | TXT / PDF, **prêt comité** |
+| ⚡ Évaluation en 5 min | Pas besoin de juriste pour démarrer |
+| 📊 Score sur 24 pts | Mesure la maturité IT réelle |
+| 🎯 Plan d’action P1/P2/P3 | Recommandations techniques priorisées |
+| 🔐 100 % hors ligne | Aucun risque de fuite, pas de cloud |
+| 📄 Export audit-ready | TXT, PDF, impression |
 
 ---
 
