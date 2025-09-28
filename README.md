@@ -1,4 +1,3 @@
-readme_full = """<!--
 README • Projet démonstrateur - Eddy AZEBAZE
 Objectif : clarté + crédibilité + conversion
 -->
