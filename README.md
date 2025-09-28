@@ -1,3 +1,8 @@
+<!-- BANNIÈRE -->
+<p align="center">
+  <img src="assets/banner-projet-augmente.png" alt="Projet Augmenté - From IT projects to strategic assets" width="880">
+</p>
+
 # 🛡️ AI Act Readiness Scorecard  
 ### _Outil d’auto-évaluation de conformité IA – Orienté DSI / CTO / Architectes_
 
@@ -12,28 +17,6 @@
 
 > *"Un contrôle incomplet n’est pas un contrôle."*  
 > Cet outil évalue la **maturité IT réelle** d’un système IA face à l’AI Act — pas seulement la compliance théorique.
-
----
-
-<!-- BANNIÈRE -->
-<p align="center">
-  <img src="assets/banner-projet-augmente.png" alt="Projet Augmenté - From IT projects to strategic assets" width="880">
-</p>
-
-<h1 align="center">🛡️ AI Act Readiness Scorecard</h1>
-<p align="center"><em>Outil d’auto-évaluation de conformité IA - Orienté DSI / CTO / Architectes</em></p>
-<p align="center">
-  <a href="https://www.linkedin.com/in/eddy-azebaze-pmp-cism">LinkedIn</a> •
-  <a href="mailto:eddy.azebaze@proton.me">Email</a> •
-  <a href="https://calendly.com/eddy-azebaze-proton/30min">Réserver 30&nbsp;min</a> •
-  <a href="https://medium.com/@eddyazebaze">Medium</a>
-</p>
-
-<p align="center">
-  <img alt="PMI ATP Trainer" src="https://img.shields.io/badge/PMI-ATP%20Trainer-brightgreen?logo=pmiprojectmanagement">
-  <img alt="PMP Certified" src="https://img.shields.io/badge/PMP%C2%AE-Certified-0A66C2?logo=pmiprojectmanagement">
-  <img alt="CISM Certified" src="https://img.shields.io/badge/CISM%C2%AE-Certified-2E8B57">
-</p>
 
 ---
 
@@ -100,6 +83,15 @@ Un outil simple et autonome pour :
 - 👉 [LinkedIn](https://www.linkedin.com/in/eddy-azebaze-pmp-cism)  
 - 👉 [Email](mailto:eddy.azebaze@proton.me)  
 - 👉 [Medium](https://medium.com/@eddyazebaze)  
+
+---
+
+## Passer à l’action
+
+- 👉 [Réserver 30 min](https://calendly.com/eddy-azebaze-proton/30min)  
+- 👉 [LinkedIn](https://www.linkedin.com/in/eddy-azebaze-pmp-cism)  
+- 👉 [Email direct](mailto:eddy.azebaze@proton.me)  
+- 👉 [Medium](https://medium.com/@eddyazebaze)
 
 ---
 
