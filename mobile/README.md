@@ -44,6 +44,18 @@ L’application mobile permet aux **décideurs IT (DSI, CTO, DPO)** de réaliser
 
 ---
 
+## 🚀 Preview App on your Phone
+
+Scannez le QR code ci-dessous avec votre caméra pour tester l’application dans **Expo Go** sur votre smartphone.  
+
+<p align="center">
+  <a href="https://expo.dev" target="_blank">
+    <img src="screenshots/preview-app.png" alt="Preview App on your Phone - Expo Go" width="280">
+  </a>
+</p>
+
+---
+
 ## Structure du dépôt
 
 ```
